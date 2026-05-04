@@ -1,6 +1,6 @@
 # Breast Ultrasound Image Detection: A Comparative Study of Multi-task U-Net and EfficientNet-based Classifiers
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/FINAL_PROJECT_Breast_Ultrasound_Image_Detection_CSE427.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oodsystem/breast-ultrasound-detection/blob/main/PROJECT_Breast_Ultrasound_Image_Detection_CSE427.ipynb)
 
 > **CSE427 — BRAC University**
 > Tawsif Ahmed · Saiyed Mubasshir Mahmood · Meraj Mahamud
