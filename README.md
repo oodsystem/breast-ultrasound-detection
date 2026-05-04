@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oodsystem/breast-ultrasound-detection/blob/main/PROJECT_Breast_Ultrasound_Image_Detection_CSE427.ipynb)
 
 > **CSE427 — BRAC University**
-> Tawsif Ahmed · Saiyed Mubasshir Mahmood · Meraj Mahamud
+> Saiyed Mubasshir Mahmood · Tawsif Ahmed · Meraj Mahamud
 
 ---
 
